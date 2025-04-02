@@ -29,10 +29,11 @@ p {
 }
 
 a {
-    color: #007bff;
+    color: #ffc107;;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
 }
+
